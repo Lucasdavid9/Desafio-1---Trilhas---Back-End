@@ -1,5 +1,5 @@
 // Criando as variáveis
-let idade = 25;
+let idade = 27;
 let altura = 1.75;
 
 // Exibindo no console
